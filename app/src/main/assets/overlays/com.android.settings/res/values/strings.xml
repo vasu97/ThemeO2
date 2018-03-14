@@ -5,22 +5,22 @@
 
     <!--Light Theme Accent Names-->
     <!--<string name="op_primary_default_light_label">@string/op_primary_default_label</string>-->
-    <string name="op_primary_golden_light_label">@string/op_primary_golden_label</string>
-    <string name="op_primary_lemon_yellow_light_label">@string/op_primary_lemon_yellow_label</string>
-    <string name="op_primary_grass_green_light_label">@string/op_primary_grass_green_label</string>
-    <string name="op_primary_charm_purple_light_label">@string/op_primary_charm_purple_label</string>
-    <string name="op_primary_sky_blue_light_label">@string/op_primary_sky_blue_label</string>
-    <string name="op_primary_vigour_red_light_label">@string/op_primary_vigour_red_label</string>
-    <string name="op_primary_fashion_pink_light_label">@string/op_primary_fashion_pink_label</string>
+    <string name="op_primary_golden_light_label">Grey</string>
+    <string name="op_primary_lemon_yellow_light_label">Red</string>
+    <string name="op_primary_grass_green_light_label">Deep Orange</string>
+    <string name="op_primary_charm_purple_light_label">Material Indigo</string>
+    <string name="op_primary_sky_blue_light_label">Material Green</string>
+    <string name="op_primary_vigour_red_light_label">Dark Grey</string>
+    <string name="op_primary_fashion_pink_light_label">Material Yellow</string>
 
     <!--Dark Theme Accent Names-->
     <!--<string name="op_primary_default_dark_label">@string/op_primary_default_label</string>-->
-    <string name="op_primary_golden_dark_label">@string/op_primary_golden_label</string>
-    <string name="op_primary_lemon_yellow_dark_label">@string/op_primary_lemon_yellow_label</string>
-    <string name="op_primary_grass_green_dark_label">@string/op_primary_grass_green_label</string>
-    <string name="op_primary_charm_purple_dark_label">@string/op_primary_charm_purple_label</string>
-    <string name="op_primary_sky_blue_dark_label">@string/op_primary_sky_blue_label</string>
-    <string name="op_primary_vigour_red_dark_label">@string/op_primary_vigour_red_label</string>
-    <string name="op_primary_fashion_pink_dark_label">@string/op_primary_fashion_pink_label</string>
+    <string name="op_primary_golden_dark_label">Grey</string>
+    <string name="op_primary_lemon_yellow_dark_label">Red</string>
+    <string name="op_primary_grass_green_dark_label">Deep Orange</string>
+    <string name="op_primary_charm_purple_dark_label">Material Indigo</string>
+    <string name="op_primary_sky_blue_dark_label">Material Green</string>
+    <string name="op_primary_vigour_red_dark_label">Dark Grey</string>
+    <string name="op_primary_fashion_pink_dark_label">Material Yellow</string>
 
 </resources>
