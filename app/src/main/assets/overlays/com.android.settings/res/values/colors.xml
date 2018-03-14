@@ -5,4 +5,41 @@
     <color name="accent_default_light">@*android:color/accent_material_dark</color>
     <color name="primary_default_dark">@*android:color/accent_material_dark</color>
     <color name="accent_default_dark">@*android:color/accent_material_dark</color>
+
+    <!--Light Theme Accents-->
+    <!--<color name="primary_default_light">#ff2196f3</color>-->
+    <color name="primary_golden_light">#ffcc6f4e</color>
+    <color name="primary_lemon_yellow_light">#ffeb9413</color>
+    <color name="primary_grass_green_light">#ff8bc34a</color>
+    <color name="primary_charm_purple_light">#ff673ab7</color>
+    <color name="primary_sky_blue_light">#ff02bcd4</color>
+    <color name="primary_vigour_red_light">#ffe91e63</color>
+    <color name="primary_fashion_pink_light">#ff9c27b0</color>
+    <!--<color name="accent_default_light">#ff55759b</color>-->
+    <color name="accent_golden_light">#ffc2864e</color>
+    <color name="accent_lemon_yellow_light">#ffbb9658</color>
+    <color name="accent_grass_green_light">#ff789d3e</color>
+    <color name="accent_charm_purple_light">#ff9066af</color>
+    <color name="accent_sky_blue_light">#ff3794ac</color>
+    <color name="accent_vigour_red_light">#ffa04a43</color>
+    <color name="accent_fashion_pink_light">#ffae5083</color>
+
+    <!--Dark Theme Accents-->
+    <!--<color name="primary_default_dark">#ff42a5f5</color>-->
+    <color name="primary_golden_dark">#ffcc6f4e</color>
+    <color name="primary_lemon_yellow_dark">#ffe6a545</color>
+    <color name="primary_grass_green_dark">#ff7dc22f</color>
+    <color name="primary_charm_purple_dark">#ff9575cd</color>
+    <color name="primary_sky_blue_dark">#ff26c6da</color>
+    <color name="primary_vigour_red_dark">#fff06292</color>
+    <color name="primary_fashion_pink_dark">#ffba68c8</color>
+    <!--<color name="accent_default_dark">#ff7ca1cc</color>-->
+    <color name="accent_golden_dark">#ffcc9c6b</color>
+    <color name="accent_lemon_yellow_dark">#ffd2be72</color>
+    <color name="accent_grass_green_dark">#ff5de55c</color>
+    <color name="accent_charm_purple_dark">#ff9798d8</color>
+    <color name="accent_sky_blue_dark">#ff66bfd4</color>
+    <color name="accent_vigour_red_dark">#ffd88e89</color>
+    <color name="accent_fashion_pink_dark">#ffce81ab</color>
+
 </resources>
