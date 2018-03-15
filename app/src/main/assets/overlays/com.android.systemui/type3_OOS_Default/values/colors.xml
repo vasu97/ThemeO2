@@ -42,4 +42,7 @@
     <color name="accent_vigour_red_dark">#ff1d1d1d</color><!--Dark Grey-->
     <color name="accent_fashion_pink_dark">#ffffd600</color><!--Material Yellow-->
 
+    <!--For theming volume pannel in OOS Default theme-->
+    <color name="android_volume_panel_seekbar_color">@*android:color/accent_material_dark</color>
+    <color name="android_volume_panel_seekbar_thumb_color">@*android:color/accent_material_dark</color>
 </resources>
