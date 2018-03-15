@@ -42,6 +42,11 @@
     <color name="accent_vigour_red_dark">#ff1d1d1d</color><!--Dark Grey-->
     <color name="accent_fashion_pink_dark">#ffffd600</color><!--Material Yellow-->
 
+    <!--Below this comment, All the codes are specific to OOS Default theme only in SystemUI-->
+
+    <!--Default Accent color in OOS Default theme-->
+    <color name="op_primary_default_light">@*android:color/accent_material_dark</color>
+
     <!--For theming volume pannel in OOS Default theme-->
     <color name="android_volume_panel_seekbar_color">@*android:color/accent_material_dark</color>
     <color name="android_volume_panel_seekbar_thumb_color">@*android:color/accent_material_dark</color>
