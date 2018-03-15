@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Default (The one selected from Substratum)-->
+    <string name="op_primary_default_label">Default</string>
 
     <!--Light Theme Accent Names-->
     <string name="op_primary_default_light_label">Default</string><!--The one selected from Substratum-->
