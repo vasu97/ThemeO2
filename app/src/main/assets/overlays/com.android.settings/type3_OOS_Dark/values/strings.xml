@@ -5,22 +5,22 @@
 
     <!--Light Theme Accent Names-->
     <string name="op_primary_default_light_label">Default</string><!--The one selected from Substratum-->
-    <string name="op_primary_golden_light_label">Grey</string>
-    <string name="op_primary_lemon_yellow_light_label">Red</string>
-    <string name="op_primary_grass_green_light_label">Deep Orange</string>
-    <string name="op_primary_charm_purple_light_label">Material Indigo</string>
-    <string name="op_primary_sky_blue_light_label">Material Green</string>
-    <string name="op_primary_vigour_red_light_label">Dark Grey</string>
-    <string name="op_primary_fashion_pink_light_label">Material Yellow</string>
+    <string name="op_primary_golden_light_label">Dark Grey</string>
+    <string name="op_primary_lemon_yellow_light_label">Teal</string>
+    <string name="op_primary_grass_green_light_label">Light Green</string>
+    <string name="op_primary_charm_purple_light_label">Brown</string>
+    <string name="op_primary_sky_blue_light_label">Cyan</string>
+    <string name="op_primary_vigour_red_light_label">Light Red</string>
+    <string name="op_primary_fashion_pink_light_label">Dark Amber</string>
 
     <!--Dark Theme Accent Names-->
     <string name="op_primary_default_dark_label">Default</string><!--The one selected from Substratum-->
-    <string name="op_primary_golden_dark_label">Grey</string>
-    <string name="op_primary_lemon_yellow_dark_label">Red</string>
-    <string name="op_primary_grass_green_dark_label">Deep Orange</string>
-    <string name="op_primary_charm_purple_dark_label">Material Indigo</string>
-    <string name="op_primary_sky_blue_dark_label">Material Green</string>
-    <string name="op_primary_vigour_red_dark_label">Dark Grey</string>
-    <string name="op_primary_fashion_pink_dark_label">Material Yellow</string>
+    <string name="op_primary_golden_dark_label">Silver</string>
+    <string name="op_primary_lemon_yellow_dark_label">Teal</string>
+    <string name="op_primary_grass_green_dark_label">Green</string>
+    <string name="op_primary_charm_purple_dark_label">Dark Blue</string>
+    <string name="op_primary_sky_blue_dark_label">Cyan</string>
+    <string name="op_primary_vigour_red_dark_label">Red</string>
+    <string name="op_primary_fashion_pink_dark_label">Dark Amber</string>
 
 </resources>
