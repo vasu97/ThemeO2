@@ -8,38 +8,38 @@
 
     <!--Light Theme Accents-->
     <!--<color name="primary_default_light">#ff2196f3</color>-->
-    <color name="primary_golden_light">#ff424242</color><!--Dark Grey-->
-    <color name="primary_lemon_yellow_light">#ff009688</color><!--Teal-->
-    <color name="primary_grass_green_light">#ff8bc34a</color><!--Light Green-->
-    <color name="primary_charm_purple_light">#ff795548</color><!--Brown-->
-    <color name="primary_sky_blue_light">#ff00bcd4</color><!--Cyan-->
-    <color name="primary_vigour_red_light">#fff44336</color><!--Light Red-->
-    <color name="primary_fashion_pink_light">#ffeb9413</color><!--Dark Amber-->
+    <color name="primary_golden_light">#ffeb9413</color><!--Dark Amber-->
+    <color name="primary_lemon_yellow_light">#ff8bc34a</color><!--Light Green-->
+    <color name="primary_grass_green_light">#fff44336</color><!--Light Red-->
+    <color name="primary_charm_purple_light">#ff00bcd4</color><!--Cyan-->
+    <color name="primary_sky_blue_light">#ff009688</color><!--Teal-->
+    <color name="primary_vigour_red_light">#ff795548</color><!--Brown-->
+    <color name="primary_fashion_pink_light">#ff424242</color><!--Dark Grey-->
     <!--<color name="accent_default_light">#ff55759b</color>-->
-    <color name="accent_golden_light">#ff424242</color><!--Dark Grey-->
-    <color name="accent_lemon_yellow_light">#ff009688</color><!--Teal-->
-    <color name="accent_grass_green_light">#ff8bc34a</color><!--Light Green-->
-    <color name="accent_charm_purple_light">#ff795548</color><!--Brown-->
-    <color name="accent_sky_blue_light">#ff00bcd4</color><!--Cyan-->
-    <color name="accent_vigour_red_light">#fff44336</color><!--Light Red-->
-    <color name="accent_fashion_pink_light">#ffeb9413</color><!--Dark Amber-->
+    <color name="accent_golden_light">#ffeb9413</color><!--Dark Amber-->
+    <color name="accent_lemon_yellow_light">#ff8bc34a</color><!--Light Green-->
+    <color name="accent_grass_green_light">#fff44336</color><!--Light Red-->
+    <color name="accent_charm_purple_light">#ff00bcd4</color><!--Cyan-->
+    <color name="accent_sky_blue_light">#ff009688</color><!--Teal-->
+    <color name="accent_vigour_red_light">#ff795548</color><!--Brown-->
+    <color name="accent_fashion_pink_light">#ff424242</color><!--Dark Grey-->
 
     <!--Dark Theme Accents-->
     <!--<color name="primary_default_dark">#ff42a5f5</color>-->
-    <color name="primary_golden_dark">#ffc0c0c0</color><!--Silver-->
-    <color name="primary_lemon_yellow_dark">#ff009688</color><!--Teal-->
-    <color name="primary_grass_green_dark">#ff4caf50</color><!--Green-->
-    <color name="primary_charm_purple_dark">#ff006fc8</color><!--Dark Blue-->
-    <color name="primary_sky_blue_dark">#ff00bcd4</color><!--Cyan-->
-    <color name="primary_vigour_red_dark">#ffd50000</color><!--Red-->
-    <color name="primary_fashion_pink_dark">#ffeb9413</color><!--Dark Amber-->
+    <color name="primary_golden_dark">#ffeb9413</color><!--Dark Amber-->
+    <color name="primary_lemon_yellow_dark">#ff4caf50</color><!--Green-->
+    <color name="primary_grass_green_dark">#ffd50000</color><!--Red-->
+    <color name="primary_charm_purple_dark">#ff00bcd4</color><!--Cyan-->
+    <color name="primary_sky_blue_dark">#ff009688</color><!--Teal-->
+    <color name="primary_vigour_red_dark">#ff006fc8</color><!--Dark Blue-->
+    <color name="primary_fashion_pink_dark">#ffc0c0c0</color><!--Silver-->
     <!--<color name="accent_default_dark">#ff7ca1cc</color>-->
-    <color name="accent_golden_dark">#ffc0c0c0</color><!--Silver-->
-    <color name="accent_lemon_yellow_dark">#ff009688</color><!--Teal-->
-    <color name="accent_grass_green_dark">#ff4caf50</color><!--Green-->
-    <color name="accent_charm_purple_dark">#ff006fc8</color><!--Dark Blue-->
-    <color name="accent_sky_blue_dark">#ff00bcd4</color><!--Cyan-->
-    <color name="accent_vigour_red_dark">#ffd50000</color><!--Red-->
-    <color name="accent_fashion_pink_dark">#ffeb9413</color><!--Dark Amber-->
+    <color name="accent_golden_dark">#ffeb9413</color><!--Dark Amber-->
+    <color name="accent_lemon_yellow_dark">#ff4caf50</color><!--Green-->
+    <color name="accent_grass_green_dark">#ffd50000</color><!--Red-->
+    <color name="accent_charm_purple_dark">#ff00bcd4</color><!--Cyan-->
+    <color name="accent_sky_blue_dark">#ff009688</color><!--Teal-->
+    <color name="accent_vigour_red_dark">#ff006fc8</color><!--Dark Blue-->
+    <color name="accent_fashion_pink_dark">#ffc0c0c0</color><!--Silver-->
 
 </resources>
