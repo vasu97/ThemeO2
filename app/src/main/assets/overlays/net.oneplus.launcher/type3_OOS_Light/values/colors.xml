@@ -44,4 +44,8 @@
 
     <!--Code below this line is specific to OnePlusLauncher only-->
 
+    <!--OnePlusLauncher-Shelf-->
+    <color name="quick_page_recent_title_color">@*android:color/accent_material_dark</color>
+    <color name="floating_button_main_color">@*android:color/accent_material_dark</color>
+
 </resources>
