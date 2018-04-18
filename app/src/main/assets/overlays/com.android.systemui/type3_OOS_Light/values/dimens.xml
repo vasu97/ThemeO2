@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--this 2 lines below is responsible for rounded corners which will be added later-->
+    <dimen name="rounded_corner_content_padding">0.0dip</dimen>
+    <dimen name="rounded_corner_radius">0.0dip</dimen>
+
+    <!--the line below is for changing the header size and by changing the header size you can move quick tiles also-->
+    <dimen name="qs_header_upper_height">27.0dip</dimen>
+
+    <!--the lines below is for changing the qs size-->
+    <dimen name="status_bar_header_height">127.0dip</dimen>
+    <dimen name="status_bar_header_height_expanded">127.0dip</dimen>
+
+</resources>
